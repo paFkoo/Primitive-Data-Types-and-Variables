@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Unicode Character\bin\Debug\Unicode Character.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Unicode Character\bin\Debug\Unicode Character.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Unicode Character\bin\Debug\Unicode Character.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Unicode Character\obj\Debug\Unicode Character.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Unicode Character\obj\Debug\Unicode Character.pdb

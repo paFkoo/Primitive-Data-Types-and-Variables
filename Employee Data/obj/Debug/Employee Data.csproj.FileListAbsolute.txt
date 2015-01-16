@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Employee Data\bin\Debug\Employee Data.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Employee Data\bin\Debug\Employee Data.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Employee Data\bin\Debug\Employee Data.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Employee Data\obj\Debug\Employee Data.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Employee Data\obj\Debug\Employee Data.pdb

@@ -1,0 +1,6 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Print the ASCII Table\bin\Debug\Print the ASCII Table.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Print the ASCII Table\bin\Debug\Print the ASCII Table.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Print the ASCII Table\bin\Debug\Print the ASCII Table.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Print the ASCII Table\obj\Debug\Print the ASCII Table.csprojResolveAssemblyReference.cache
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Print the ASCII Table\obj\Debug\Print the ASCII Table.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Print the ASCII Table\obj\Debug\Print the ASCII Table.pdb

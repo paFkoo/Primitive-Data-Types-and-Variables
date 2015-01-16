@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Isosceles Triangle\bin\Debug\Isosceles Triangle.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Isosceles Triangle\bin\Debug\Isosceles Triangle.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Isosceles Triangle\bin\Debug\Isosceles Triangle.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Isosceles Triangle\obj\Debug\Isosceles Triangle.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Isosceles Triangle\obj\Debug\Isosceles Triangle.pdb

@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Quotes in Strings\bin\Debug\Quotes in Strings.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Quotes in Strings\bin\Debug\Quotes in Strings.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Quotes in Strings\bin\Debug\Quotes in Strings.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Quotes in Strings\obj\Debug\Quotes in Strings.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Quotes in Strings\obj\Debug\Quotes in Strings.pdb

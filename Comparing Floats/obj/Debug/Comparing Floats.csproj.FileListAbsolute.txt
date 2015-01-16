@@ -1,0 +1,6 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Comparing Floats\bin\Debug\Comparing Floats.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Comparing Floats\obj\Debug\Comparing Floats.csprojResolveAssemblyReference.cache
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Comparing Floats\bin\Debug\Comparing Floats.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Comparing Floats\bin\Debug\Comparing Floats.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Comparing Floats\obj\Debug\Comparing Floats.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Comparing Floats\obj\Debug\Comparing Floats.pdb

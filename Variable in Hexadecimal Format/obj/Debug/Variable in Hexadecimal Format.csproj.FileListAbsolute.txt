@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Variable in Hexadecimal Format\obj\Debug\Variable in Hexadecimal Format.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Variable in Hexadecimal Format\obj\Debug\Variable in Hexadecimal Format.pdb

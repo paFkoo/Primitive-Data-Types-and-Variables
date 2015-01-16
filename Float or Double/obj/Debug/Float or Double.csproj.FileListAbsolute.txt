@@ -1,0 +1,6 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Float or Double\bin\Debug\Float or Double.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Float or Double\bin\Debug\Float or Double.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Float or Double\bin\Debug\Float or Double.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Float or Double\obj\Debug\Float or Double.csprojResolveAssemblyReference.cache
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Float or Double\obj\Debug\Float or Double.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution3\Float or Double\obj\Debug\Float or Double.pdb
